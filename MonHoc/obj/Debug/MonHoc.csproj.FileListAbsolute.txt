@@ -1,0 +1,11 @@
+D:\MenuObject\LTTQ\MonHoc\MonHoc\bin\Debug\MonHoc.exe.config
+D:\MenuObject\LTTQ\MonHoc\MonHoc\bin\Debug\MonHoc.exe
+D:\MenuObject\LTTQ\MonHoc\MonHoc\bin\Debug\MonHoc.pdb
+D:\MenuObject\LTTQ\MonHoc\MonHoc\obj\Debug\MonHoc.csproj.AssemblyReference.cache
+D:\MenuObject\LTTQ\MonHoc\MonHoc\obj\Debug\MonHoc.csproj.SuggestedBindingRedirects.cache
+D:\MenuObject\LTTQ\MonHoc\MonHoc\obj\Debug\MonHoc.Form1.resources
+D:\MenuObject\LTTQ\MonHoc\MonHoc\obj\Debug\MonHoc.Properties.Resources.resources
+D:\MenuObject\LTTQ\MonHoc\MonHoc\obj\Debug\MonHoc.csproj.GenerateResource.cache
+D:\MenuObject\LTTQ\MonHoc\MonHoc\obj\Debug\MonHoc.csproj.CoreCompileInputs.cache
+D:\MenuObject\LTTQ\MonHoc\MonHoc\obj\Debug\MonHoc.exe
+D:\MenuObject\LTTQ\MonHoc\MonHoc\obj\Debug\MonHoc.pdb
